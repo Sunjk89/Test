@@ -7,5 +7,11 @@ public class Test {
         System.out.println(b1);
 
         System.out.println(b1 == null);
+        
+        System.out.println(b1 == null);
+        System.out.println(b1 == null);
+        System.out.println(b1 == null);
+        System.out.println(b1 == null);System.out.println(b1 == null);
+        System.out.println(b1 == null);
     }
 }
